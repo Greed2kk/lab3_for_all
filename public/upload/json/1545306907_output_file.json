@@ -1,0 +1,35 @@
+[
+    {
+        "id": 884,
+        "stage": 1,
+        "answer": 1
+    },
+    {
+        "id": 885,
+        "stage": 2,
+        "answer": 1
+    },
+    {
+        "id": 886,
+        "stage": 3,
+        "answer": 0
+    },
+    {
+        "id": 887,
+        "stage": 1,
+        "answer": 1
+    },
+    {
+        "id": 888,
+        "stage": 2,
+        "answer": 1
+    },
+    {
+        "id": 889,
+        "stage": 3,
+        "answer": 0
+    },
+    {
+        "result_all": "Документ не одобрен"
+    }
+]

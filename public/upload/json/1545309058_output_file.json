@@ -1,0 +1,47 @@
+[
+    {
+        "id": 200,
+        "stage": 1,
+        "answer": 0,
+        "user_name": "u1",
+        "opertion": 0
+    },
+    {
+        "id": 201,
+        "stage": 2,
+        "answer": 1,
+        "user_name": "u2",
+        "opertion": 0
+    },
+    {
+        "id": 202,
+        "stage": 3,
+        "answer": 1,
+        "user_name": "u1",
+        "opertion": 2
+    },
+    {
+        "id": 203,
+        "stage": 3,
+        "answer": 1,
+        "user_name": "u3",
+        "opertion": 2
+    },
+    {
+        "id": 204,
+        "stage": 4,
+        "answer": 0,
+        "user_name": "u5",
+        "opertion": 1
+    },
+    {
+        "id": 205,
+        "stage": 4,
+        "answer": 1,
+        "user_name": "u1",
+        "opertion": 1
+    },
+    {
+        "result_all": "Документ не одобрен"
+    }
+]

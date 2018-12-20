@@ -1,0 +1,75 @@
+[
+    {
+        "id": 531,
+        "stage": 1,
+        "answer": 0
+    },
+    {
+        "id": 532,
+        "stage": 2,
+        "answer": 0
+    },
+    {
+        "id": 533,
+        "stage": 3,
+        "answer": 1
+    },
+    {
+        "id": 534,
+        "stage": 4,
+        "answer": 1
+    },
+    {
+        "id": 535,
+        "stage": 5,
+        "answer": 1
+    },
+    {
+        "id": 536,
+        "stage": 6,
+        "answer": 1
+    },
+    {
+        "id": 537,
+        "stage": 7,
+        "answer": 1
+    },
+    {
+        "id": 538,
+        "stage": 1,
+        "answer": 0
+    },
+    {
+        "id": 539,
+        "stage": 2,
+        "answer": 0
+    },
+    {
+        "id": 540,
+        "stage": 3,
+        "answer": 1
+    },
+    {
+        "id": 541,
+        "stage": 4,
+        "answer": 1
+    },
+    {
+        "id": 542,
+        "stage": 5,
+        "answer": 1
+    },
+    {
+        "id": 543,
+        "stage": 6,
+        "answer": 1
+    },
+    {
+        "id": 544,
+        "stage": 7,
+        "answer": 1
+    },
+    {
+        "result_all": "Документ не одобрен"
+    }
+]

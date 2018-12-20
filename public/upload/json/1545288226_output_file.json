@@ -1,0 +1,65 @@
+[
+    {
+        "id": 101,
+        "stage": 1,
+        "answer": 1,
+        "user_name": "Егор Летов",
+        "opertion": 0
+    },
+    {
+        "id": 102,
+        "stage": 2,
+        "answer": 1,
+        "user_name": "Пес Ебаный",
+        "opertion": 1
+    },
+    {
+        "id": 103,
+        "stage": 2,
+        "answer": 0,
+        "user_name": "Мики Маус",
+        "opertion": 1
+    },
+    {
+        "id": 104,
+        "stage": 3,
+        "answer": 1,
+        "user_name": "Пес Ебаный",
+        "opertion": 0
+    },
+    {
+        "id": 105,
+        "stage": 4,
+        "answer": 1,
+        "user_name": "Билл Гейтс",
+        "opertion": 2
+    },
+    {
+        "id": 106,
+        "stage": 4,
+        "answer": 1,
+        "user_name": "Том Джери",
+        "opertion": 2
+    },
+    {
+        "id": 107,
+        "stage": 5,
+        "answer": 1,
+        "user_name": "Харисон Форд",
+        "opertion": 0
+    },
+    {
+        "id": 108,
+        "stage": 6,
+        "answer": 1,
+        "user_name": "Егор Летов",
+        "opertion": 0
+    },
+    {
+        "id": 109,
+        "stage": 7,
+        "answer": 1,
+        "user_name": "Егор Летов",
+        "opertion": 0
+    }
+]
